@@ -1,4 +1,16 @@
-# Brain Hu的技术博客
+# Brain Hu的博客
+
+## 目录
+* **应用**
+  * 
+* **开发**
+  * [Linux 技术集](LINUX.md)
+* **读书**
+  * [我的读书笔记](READING.md)  
+* **教育**
+  * [小学教育]
+    * [语文]()
+    * [数学]
 
 ## Markdown 语法
 [Markdown](MARKDOWN.md)
