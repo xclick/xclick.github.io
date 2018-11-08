@@ -1,5 +1,14 @@
 # Brain Hu的技术博客
 
+## Markdown 语法
+[Markdown](MARKDOWN.md)
+
+## 区块链专题
+### EOS 开发
+* eosjs-api文档
+  https://github.com/EOSIO/eosjs-api/blob/master/docs/api.md
+* 
+
 ### 术语
 * Raising funds:筹资
 * democracy: n. 民主，民主主义；民主政治
