@@ -1,4 +1,4 @@
-# README
+# Brain Hu的技术博客
 
 ### 术语
 * Raising funds:筹资
