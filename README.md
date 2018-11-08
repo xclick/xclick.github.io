@@ -9,7 +9,7 @@
   * [我的读书笔记](READING.md)  
 * **教育**
   * [小学教育]
-    * [语文]()
+    * [语文](EDU-A-CHINESE.md)
     * [数学]
 
 ## Markdown 语法
