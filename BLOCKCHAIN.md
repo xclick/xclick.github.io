@@ -1,5 +1,5 @@
 # 区块链专辑
-
+## [返回](./README.md)
 ## 基本知识
 ### 术语
 * Raising funds:筹资
@@ -43,7 +43,7 @@
 * https://github.com/EOSIO/EOSJS
 * eosjs-api文档  
   https://github.com/EOSIO/eosjs-api/blob/master/docs/api.md
-###其他区块链
+### 其他区块链
 #### IBM HyperLedger fabric
 * https://github.com/hyperledger/fabric
 
@@ -75,10 +75,10 @@
 * https://github.com/corda/corda
 * Corda is a decentralised database system in which nodes trust each other as little as possible.
 
-### 微软Coco
+#### 微软Coco
 * 微软公开全新区块链平台Coco，每秒处理1600笔交易
 
-### 闪电网络
+#### 闪电网络
 * https://github.com/lightningnetwork
 * 
 #### 雷电网络
