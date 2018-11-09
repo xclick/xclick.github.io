@@ -1,6 +1,9 @@
 # 区块链专辑
+
 ## [返回](./README.md)
+
 ## 基本知识
+
 ### 术语
 * Raising funds:筹资
 * democracy: n. 民主，民主主义；民主政治
@@ -23,7 +26,9 @@
 * Merkle树： 一种哈希二叉树
 
 ## 公链
+
 ### 主流区块链
+
 #### 比特币体系
 * https://github.com/bitcoin/bitcoin
 * 比特币侧链
@@ -43,7 +48,9 @@
 * https://github.com/EOSIO/EOSJS
 * eosjs-api文档  
   https://github.com/EOSIO/eosjs-api/blob/master/docs/api.md
+
 ### 其他区块链
+
 #### IBM HyperLedger fabric
 * https://github.com/hyperledger/fabric
 
