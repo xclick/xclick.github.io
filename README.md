@@ -15,4 +15,4 @@
   * [我的读书笔记](READING.md)  
 
 #### 工具集
-  * [EOS工具]()
+  * [EOS工具](./eos-tools.html)
